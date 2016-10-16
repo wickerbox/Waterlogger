@@ -648,7 +648,7 @@ F 3 "" H 4950 3325 50  0000 C CNN
 $EndComp
 Text Label 5625 3150 0    60   ~ 0
 TEMP_OUT
-Text Notes 4675 5950 0    60   ~ 0
+Text Notes 5150 5850 0    60   ~ 0
 CONDUCTIVITY\n
 $Comp
 L CONN-TERM-SCREW-GREEN-2.54MM-2POS-TH J?
